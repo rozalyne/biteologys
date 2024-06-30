@@ -1,6 +1,6 @@
 {
     "rewrites": [
-      { "source": "/biteology.html", "destination": "/" }
+      { "source": "/test.html", "destination": "/" }
     ]
   }
   
